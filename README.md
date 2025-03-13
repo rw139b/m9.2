@@ -1,24 +1,17 @@
 # CS408 - Lab9.2
 
-## Overview
+# Bouncing Balls Game
 
-TODO: Write a project description
+A simple browser-based game featuring bouncing balls and a player-controlled "evil circle" that eats them.
 
-## Sources and Credits
+## Runing
+-Install Live Server
+-Right Click the index.html
+-press open with live server
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+## How to Play
+- Open the game in a browser
+- Use WASD keys to move the white outlined evil circle
+- Try to catch all the bouncing balls
+- Watch the ball count decrease as you catch balls
+- Balls bounce off walls and change colors when they collide with each other
